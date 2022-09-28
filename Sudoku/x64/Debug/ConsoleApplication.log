@@ -1,0 +1,6 @@
+﻿  ConsoleApplication.cpp
+D:\Portfolio\ConsoleApplication\node.h(28,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Portfolio\ConsoleApplication\node.h(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Portfolio\ConsoleApplication\node.h(59,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Portfolio\ConsoleApplication\node.h(115,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication.vcxproj -> D:\Portfolio\ConsoleApplication\x64\Debug\ConsoleApplication.exe
